@@ -19,7 +19,54 @@ Speed
 User experience
 
 ## Algorithm
+1. **Article Selection**
+   Select a \~500-word technical article titled *"The Basics of Blockchain Technology"*.
+
+2. **Prompting Strategies Definition**
+   Prepare the following four prompting strategies:
+
+   * **Zero-shot**: Directly ask the model to summarize without examples.
+   * **Few-shot**: Provide 2–3 examples of summaries for similar technical texts before asking for the summary.
+   * **Chain-of-Thought**: Prompt the model to explain or break down the text logically before summarizing.
+   * **Role-based**: Instruct the model to act as a specific role (e.g., “a university professor summarizing for freshmen”).
+
+3. **Platform Selection**
+   Use the following AI platforms:
+
+   * ChatGPT (OpenAI)
+   * Gemini (Google)
+   * Claude (Anthropic)
+   * Copilot (Microsoft)
+
+4. **Execution**
+   For each platform:
+
+   * Apply each prompting strategy using the same input article.
+   * Record the output summary.
+   * Note time taken to generate the summary.
+
+5. **Evaluation Criteria**
+   Evaluate each generated summary using the following:
+
+   * **Accuracy**: Does the summary correctly capture the main points of the article?
+   * **Coherence**: Is the summary logically structured and easy to follow?
+   * **Simplicity**: Is the language accessible for undergraduate students?
+   * **Speed**: How fast is the response?
+   * **User Experience**: Was the interface intuitive, and was the output easy to copy/save?
+
+6. **Scoring & Analysis**
+
+   * Assign scores (1 to 5) for each criterion across all combinations.
+   * Tabulate results for comparison.
+   * Identify the best-performing strategy-platform combination.
+
+---
+
+## **Output**
+
+<img width="1062" height="461" alt="Screenshot 2025-09-09 153704" src="https://github.com/user-attachments/assets/f69e78c1-4673-427d-825d-c128e3591ead" />
+
 
 ## Result
-
+ Thus,the Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization prompted in ai tools
 
